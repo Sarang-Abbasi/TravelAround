@@ -248,6 +248,8 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 **Sarang Abbasi**
 
+Available for freelance projects — [Connect on LinkedIn](https://www.linkedin.com/in/sarang-abbasi-6a7a30232)
+
 ---
 
 > Built as part of a coursework project — C# WinForms with MySQL backend.
