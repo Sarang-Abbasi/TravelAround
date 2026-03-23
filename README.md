@@ -19,12 +19,6 @@ A **C# Windows Forms** desktop application for planning and managing UK travel r
 
 ---
 
-## 🖥️ Screenshots
-
-> _Add screenshots of your forms here after uploading_
-
----
-
 ## 🛠️ Tech Stack
 
 | Component | Detail |
@@ -252,8 +246,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+**Sarang Abbasi**
 
 ---
 
