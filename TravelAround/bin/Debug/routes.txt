@@ -1,0 +1,6 @@
+London|Paris|Aeroplane|120|2
+Berlin|Paris|Aeroplane|120|2
+London|Toronto|Aeroplane|150|2.5
+London|Paris|Walking|135|27
+Larkana|Karachi|Aeroplane|150|2.5
+Larkana|Karachi1|Car|135|2.25

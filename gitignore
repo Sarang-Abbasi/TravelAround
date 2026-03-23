@@ -1,0 +1,79 @@
+# ──────────────────────────────────────────────
+# TravelAround — .gitignore
+# ──────────────────────────────────────────────
+
+# Visual Studio build output
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+# NuGet packages (restored automatically)
+packages/
+*.nupkg
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# Visual Studio cache / options
+.vs/
+*.cache
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
+*.VC.opendb
+
+# MSBuild binary logs
+*.binlog
+
+# Compiled files
+*.exe
+*.pdb
+*.dll
+*.manifest
+*.exp
+*.lib
+*.ilk
+
+# Log files
+*.log
+
+# Windows thumbnail cache
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ⚠️  SECURITY — never commit database credentials
+# If you store credentials in these files, keep them out of git:
+# db.cs          ← contains MySQL password
+# App.config     ← may contain connection strings
+
+# Uncomment the line below if you move credentials to App.config:
+# App.config
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Rider
+.idea/
+*.sln.iml
+
+# NuGet
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# OS files
+.DS_Store
