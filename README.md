@@ -4,6 +4,24 @@ A **C# Windows Forms** desktop application for planning and managing UK travel r
 
 ---
 
+<img width="287" height="402" alt="Picture1" src="https://github.com/user-attachments/assets/d5cac091-e287-4325-b2e8-ee77a17d8fc6" />
+
+<img width="287" height="386" alt="Picture2" src="https://github.com/user-attachments/assets/18997755-6d32-44c3-b4a4-9bafa5850353" />
+
+<img width="288" height="322" alt="Picture3" src="https://github.com/user-attachments/assets/409d5e78-e147-4cb0-afb4-755f55b5ecc7" />
+
+<img width="334" height="410" alt="Picture4" src="https://github.com/user-attachments/assets/e4139704-1c98-4cb7-b1a2-0d5a885a124f" />
+
+<img width="234" height="381" alt="Picture5" src="https://github.com/user-attachments/assets/68725f25-4864-4fba-b8dd-1572db3e64ad" />
+
+<img width="336" height="336" alt="Picture6" src="https://github.com/user-attachments/assets/b15231e8-6c75-4a0f-b070-94caffdc3b1f" />
+
+<img width="465" height="397" alt="Picture7" src="https://github.com/user-attachments/assets/0a6c6179-2116-4775-8e55-714caabbee95" />
+
+<img width="196" height="266" alt="Picture8" src="https://github.com/user-attachments/assets/562f33b2-fa99-40e9-8a99-94ab4c5338fe" />
+
+---
+
 ## ✨ Features
 
 - 🔐 **User authentication** — secure registration and login with SHA-256 password hashing
